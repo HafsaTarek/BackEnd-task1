@@ -1,0 +1,5 @@
+[
+    { "id": 1, "fname": "Hafsa", "lname": "Tarek", "city": "Giza", "age": 20 },
+    { "id": 2, "fname": "Hend", "lname": "Khaled", "city": "Giza", "age": 21 },
+    { "id": 3, "fname": "Manar", "lname": "Atef", "city": "Giza", "age": 19 }
+]
